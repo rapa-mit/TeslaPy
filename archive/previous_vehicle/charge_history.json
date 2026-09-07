@@ -1,0 +1,1130 @@
+{
+  "screen_title": "Charge Stats",
+  "screen_subtitle": "Last 31 Days",
+  "total_charged": {
+    "value": "182",
+    "raw_value": 182330,
+    "after_adornment": "kWh",
+    "title": "Total Charged"
+  },
+  "total_charged_breakdown": {
+    "home": {
+      "value": "0",
+      "after_adornment": "%",
+      "sub_title": "Home"
+    },
+    "super_charger": {
+      "value": "92",
+      "raw_value": 92,
+      "after_adornment": "%",
+      "sub_title": "Supercharger"
+    },
+    "other": {
+      "value": "8",
+      "raw_value": 8,
+      "after_adornment": "%",
+      "sub_title": "Other"
+    },
+    "work": {
+      "value": "0",
+      "after_adornment": "%",
+      "sub_title": "Work"
+    }
+  },
+  "charging_history_graph": {
+    "data_points": [
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1689490800
+          },
+          "display_string": "Sun, Jul 16"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1689577200
+          },
+          "display_string": "Mon, Jul 17"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1689663600
+          },
+          "display_string": "Tue, Jul 18"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1689750000
+          },
+          "display_string": "Wed, Jul 19"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1689836400
+          },
+          "display_string": "Thu, Jul 20"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1689922800
+          },
+          "display_string": "Fri, Jul 21"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690009200
+          },
+          "display_string": "Sat, Jul 22"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690095600
+          },
+          "display_string": "Sun, Jul 23"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690182000
+          },
+          "display_string": "Mon, Jul 24"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690268400
+          },
+          "display_string": "Tue, Jul 25"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690354800
+          },
+          "display_string": "Wed, Jul 26"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690441200
+          },
+          "display_string": "Thu, Jul 27"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690527600
+          },
+          "display_string": "Fri, Jul 28"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690614000
+          },
+          "display_string": "Sat, Jul 29"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690700400
+          },
+          "display_string": "Sun, Jul 30"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690786800
+          },
+          "display_string": "Mon, Jul 31"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690873200
+          },
+          "display_string": "Tue, Aug 1"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1690959600
+          },
+          "display_string": "Wed, Aug 2"
+        },
+        "values": [
+          {
+            "value": "4",
+            "raw_value": 3995,
+            "after_adornment": "kWh",
+            "title": "Total Charged",
+            "sub_title": "Other"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "4",
+            "raw_value": 3995,
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691046000
+          },
+          "display_string": "Thu, Aug 3"
+        },
+        "values": [
+          {
+            "value": "30",
+            "raw_value": 30000,
+            "after_adornment": "kWh",
+            "title": "Total Charged",
+            "sub_title": "Supercharger"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "30",
+            "raw_value": 30000,
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691132400
+          },
+          "display_string": "Fri, Aug 4"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691218800
+          },
+          "display_string": "Sat, Aug 5"
+        },
+        "values": [
+          {
+            "value": "36",
+            "raw_value": 36000,
+            "after_adornment": "kWh",
+            "title": "Total Charged",
+            "sub_title": "Supercharger"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "36",
+            "raw_value": 36000,
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691305200
+          },
+          "display_string": "Sun, Aug 6"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691391600
+          },
+          "display_string": "Mon, Aug 7"
+        },
+        "values": [
+          {
+            "value": "48",
+            "raw_value": 48000,
+            "after_adornment": "kWh",
+            "title": "Total Charged",
+            "sub_title": "Supercharger"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "48",
+            "raw_value": 48000,
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691478000
+          },
+          "display_string": "Tue, Aug 8"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691564400
+          },
+          "display_string": "Wed, Aug 9"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691650800
+          },
+          "display_string": "Thu, Aug 10"
+        },
+        "values": [
+          {
+            "value": "10",
+            "raw_value": 10335,
+            "after_adornment": "kWh",
+            "title": "Total Charged",
+            "sub_title": "Other"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "10",
+            "raw_value": 10335,
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691737200
+          },
+          "display_string": "Fri, Aug 11"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691823600
+          },
+          "display_string": "Sat, Aug 12"
+        },
+        "values": [
+          {
+            "value": "54",
+            "raw_value": 54000,
+            "after_adornment": "kWh",
+            "title": "Total Charged",
+            "sub_title": "Supercharger"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "54",
+            "raw_value": 54000,
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691910000
+          },
+          "display_string": "Sun, Aug 13"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1691996400
+          },
+          "display_string": "Mon, Aug 14"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      },
+      {
+        "timestamp": {
+          "timestamp": {
+            "seconds": 1692082800
+          },
+          "display_string": "Tue, Aug 15"
+        },
+        "values": [
+          {
+            "value": "0",
+            "after_adornment": "kWh",
+            "title": "Total Charged"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          },
+          {
+            "value": "0",
+            "after_adornment": "kWh"
+          }
+        ]
+      }
+    ],
+    "period": {
+      "start_timestamp": {
+        "seconds": 1689490800
+      },
+      "end_timestamp": {
+        "seconds": 1692169199
+      }
+    },
+    "interval": 2,
+    "x_labels": [
+      {
+        "value": "17",
+        "raw_value": 1
+      },
+      {
+        "value": "24",
+        "raw_value": 8
+      },
+      {
+        "value": "31",
+        "raw_value": 15
+      },
+      {
+        "value": "7",
+        "raw_value": 22
+      },
+      {
+        "value": "14",
+        "raw_value": 29
+      }
+    ],
+    "y_labels": [
+      {
+        "value": "0"
+      },
+      {
+        "value": "27",
+        "raw_value": 27000
+      },
+      {
+        "value": "54",
+        "raw_value": 54000,
+        "after_adornment": "kWh"
+      }
+    ],
+    "horizontal_grid_lines": [
+      27000,
+      54000
+    ],
+    "vertical_grid_lines": [
+      0.5,
+      7.5,
+      14.5,
+      21.5,
+      28.5
+    ],
+    "discrete_x": true,
+    "y_range_max": 54000,
+    "XDomainMin": null,
+    "XDomainMax": null
+  },
+  "set_rate_plan": {
+    "message_card": {
+      "card": {
+        "id": "set_rate_plan_card_title",
+        "title": "Get more accurate spending insights"
+      },
+      "image_id": "vehicle_charging_savings"
+    },
+    "primary_link": {
+      "type": 3,
+      "destination": "vehicle_charging_rate_plan_management_intro_screen",
+      "label": "Set Charging Costs"
+    }
+  },
+  "total_charged_energy_breakdown": {
+    "home": {
+      "value": "0",
+      "after_adornment": " kWh",
+      "sub_title": "Home"
+    },
+    "super_charger": {
+      "value": "168",
+      "raw_value": 168000,
+      "after_adornment": " kWh",
+      "sub_title": "Supercharger"
+    },
+    "other": {
+      "value": "14",
+      "raw_value": 14330,
+      "after_adornment": " kWh",
+      "sub_title": "Other"
+    },
+    "work": {
+      "value": "0",
+      "after_adornment": " kWh",
+      "sub_title": "Work"
+    }
+  },
+  "charging_tips": {
+    "title": "Charging Tips",
+    "image_url": "https://digitalassets-energy.tesla.com/image/upload/f_auto,q_auto/app/charge-stats/charging-tip-main-image.png",
+    "text_sections": [
+      {
+        "title": "Make the most out of charging your Tesla",
+        "paragraphs": [
+          "Learn how to save money, charge more sustainably, and be ready for wherever life takes you"
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "link": {
+          "link": {
+            "type": 3,
+            "destination": "energy_onboarding_tutorials_tips_screen",
+            "label": "Save Money"
+          },
+          "left_icon": "dollar",
+          "right_icon": "forward"
+        },
+        "section": {
+          "title": "Save Money",
+          "tips": [
+            {
+              "title": "Time-of-Use",
+              "description": "To save on electricity, charge at home during off-peak hours.",
+              "media": {
+                "type": 1,
+                "source": "https://digitalassets-energy.tesla.com/image/upload/v1670566726/app/charge-stats/time-of-use-en-us.png",
+                "resize_mode": 1
+              }
+            },
+            {
+              "title": "Scheduled Departure",
+              "description": "'Scheduled Departure' preconditions your cabin and battery so you start each trip with your desired settings and maximize range.",
+              "media": {
+                "type": 1,
+                "source": "https://digitalassets-energy.tesla.com/image/upload/v1670306703/app/charge-stats/scheduled-departure-en-us.png",
+                "resize_mode": 1
+              }
+            },
+            {
+              "title": "Off-Peak Supercharging",
+              "description": "By Supercharging during off-peak hours, you'll pay less while reducing pressure on your local energy grid.",
+              "media": {
+                "type": 1,
+                "source": "https://digitalassets-energy.tesla.com/image/upload/v1670330212/app/charge-stats/off-peak-supercharging-en-us.png",
+                "resize_mode": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "link": {
+          "link": {
+            "type": 3,
+            "destination": "energy_onboarding_tutorials_tips_screen",
+            "label": "Charge Sustainably"
+          },
+          "left_icon": "leaf",
+          "right_icon": "forward"
+        },
+        "section": {
+          "title": "Charge Sustainably",
+          "tips": [
+            {
+              "title": "Clean Electricity for Less",
+              "description": "Install solar panels and Powerwall to help power your home, maximize your electricity savings and reduce your reliance on the grid.",
+              "media": {
+                "type": 1,
+                "source": "https://digitalassets-energy.tesla.com/image/upload/v1670305737/app/charge-stats/clean-electricity-for-less-en-us.png",
+                "resize_mode": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "link": {
+          "link": {
+            "type": 3,
+            "destination": "energy_onboarding_tutorials_tips_screen",
+            "label": "Ready to Roll"
+          },
+          "left_icon": "checkmark_filled",
+          "right_icon": "forward"
+        },
+        "section": {
+          "title": "Ready to Roll",
+          "tips": [
+            {
+              "title": "Plug in Daily",
+              "description": "We recommend leaving your vehicle plugged in when not in use to help maintain the battery's optimal level of charge.",
+              "media": {
+                "type": 1,
+                "source": "https://digitalassets-energy.tesla.com/image/upload/v1670305125/app/charge-stats/plug-in-daily-en-us.png",
+                "resize_mode": 1
+              }
+            },
+            {
+              "title": "Home Charging",
+              "description": "To maximize your battery's lifespan, charge at home for your daily trips and reserve Supercharging for longer trips when you need faster charging speed.",
+              "media": {
+                "type": 1,
+                "source": "https://digitalassets-energy.tesla.com/image/upload/v1670289294/app/charge-stats/home-charging-en-us.png",
+                "resize_mode": 1
+              }
+            },
+            {
+              "title": "Use Navigation",
+              "description": "Navigating to a Supercharger with Trip Planner will precondition your battery and prepare it for faster Supercharging.",
+              "media": {
+                "type": 1,
+                "source": "https://digitalassets-energy.tesla.com/image/upload/v1670306155/app/charge-stats/use-navigation-en-us.png",
+                "resize_mode": 1
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "time_period_limit": {
+    "ownership_start": {
+      "timestamp": {
+        "seconds": 1690934400
+      },
+      "display_string": "Charging history is available starting from when your vehicle ownership began in August 2023"
+    },
+    "feature_start": {
+      "timestamp": {
+        "seconds": 1641024000
+      },
+      "display_string": "Charging history is available starting from January 2022"
+    }
+  }
+}

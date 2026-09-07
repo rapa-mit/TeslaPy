@@ -1,6 +1,10 @@
 .idea
 cache.json
+cache.json.bak*
 gui.ini
+config.yaml
+.venv/
+*~
 **/__pycache__
 **/*.pyc
 build/

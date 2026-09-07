@@ -1,0 +1,28 @@
+# Example configuration for the Tesla monitor app (app.py).
+# Copy this to config.yaml and fill in your own values.
+
+# Tesla SSO identity (email used to authenticate with Tesla).
+email: you@example.com
+
+# Select the vehicle by VIN so the app always targets the right car,
+# regardless of the order Tesla returns vehicles in.
+vin: "5YJYGDEXXXXXXXXXX"
+
+# Path to the nominal/spec data for the vehicle (used by the EV model).
+nominal_data: Model_Y.yaml
+
+# Slack incoming webhook for notifications.
+slack_webhook: "https://hooks.slack.com/services/XXXX/YYYY/ZZZZ"
+
+# Live monitor settings.
+monitor:
+  poll_interval_sec: 5   # how often to poll vehicle data while monitoring
+  beep_on_motion: true   # audible beep when the car is moving
+
+  # Proximity alerts: notify when the car comes within `proximity_km` of any
+  # of these reference locations. Edge-triggered (one alert per arrival).
+  proximity_km: 1.0
+  homes:
+    - name: Home
+      lat: 42.0000000
+      lon: -71.0000000

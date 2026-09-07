@@ -1,0 +1,15 @@
+real_range_estimate:
+  city_cold : [262.5,"mi"]
+  highway_cold : [197, "mi"]
+  city_mild : [397, "mi"]
+  highway_mild : [253, "mi"]
+  combined_cold : [228, "mi"]
+  combined_mild : [315, "mi"]
+battery:
+  nominal_capacity: [78.1, "kWh"]
+  useable_capacity: [75, "kWh"]
+
+charging:
+  home_charge_power : [11, "kWh/h"]
+  home_charge_speed : [34, "mi/h"]
+
